@@ -51,3 +51,8 @@ Kikani Parshad
 Kumar Harish
 Hamame Berhanu Woldegiorgis
 Okwuigbo ifeanyi Christian
+
+# Group 006
+Mahsa Asadieydivand
+Farrukh Alinazarov
+Nurbulat Shektbayev
