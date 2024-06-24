@@ -10,3 +10,9 @@ Harsh Ahir
 Azim Khaliqyar 
 Muthana Ahmed Ramzi 
 Moutaz Abushawashi
+
+# team 006
+Mahsa Asadieydivand
+Nurbulat Shektbayev
+Farrukh Alinazarov
+
